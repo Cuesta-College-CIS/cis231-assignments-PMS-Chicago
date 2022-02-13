@@ -9,7 +9,7 @@ import java.util.Random
         int rand2 = rand.nextInt(101); 
         int rand3 = rand.nextInt(101);
 
-        System.out.printlin("Random numbers are: " + rand1 + ", " + rand2 + ", and " + rand3 + ".")
+        System.out.printlin("Random numbers are: " + rand1 + ", " + rand2 + ", and " + rand3 + ".");
 
 
 
