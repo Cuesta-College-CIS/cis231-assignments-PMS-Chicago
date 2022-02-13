@@ -1,3 +1,4 @@
+//Assignment 3-2: Find Maximum of Three Random Numbers
 import java.util.Random;
 
 public class GetMax {
