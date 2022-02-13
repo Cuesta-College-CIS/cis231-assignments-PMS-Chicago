@@ -1,0 +1,18 @@
+/**
+ * Find the maximum of three random numbers
+ */
+import java.util.Random
+
+ public class GetMax {
+    public static void main(String[] args) {
+        int rand1 = rand.nextInt(101);  //random number between 0 and 100.
+        int rand2 = rand.nextInt(101); 
+        int rand3 = rand.nextInt(101);
+
+        System.out.printlin("Random numbers are: " + rand1 + ", " + rand2 + ", and " + rand3 + ".")
+
+
+
+    }
+    
+}
