@@ -1,7 +1,7 @@
 //Assignment 3-3: Arrange Three Random Numbers in ascending order
 import java.util.Random;
 
-public class ArrangeThree {
+public class AssignmentThreeThree {
    public static void main(String[] args) {
        Random rand = new Random();   
        int rand1 = rand.nextInt(101);  //random number between 0 and 100.
