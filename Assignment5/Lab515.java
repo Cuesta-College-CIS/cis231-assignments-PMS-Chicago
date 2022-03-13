@@ -13,8 +13,7 @@ public class Lab515 {
 
 		// - - - - - - - - - - - - - - - - - - - - - - -
 		// In your below for-loop, you reference uservalue[0] before setting some value
-		// intentionally.
-		// Thus, this is very risky code and nor guarantable what value it has
+		// Thus, this is very risky code and not be guarantable what value it has
 		// - - - - - - - - - - - - - - - - - - - - - - -
 
 		// Import the numbers from the user
