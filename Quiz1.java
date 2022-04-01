@@ -16,7 +16,7 @@ public class quiz1 {
         
 
 		
-        //find the smallest of the numbers and swap it with position 0
+        //progressively find the smallest of the numbers and swap it to positions 0 - 4
         for (int j = 0; j < CNT; j++){
             minval = numbers[j];
             minidx = j;
