@@ -14,7 +14,7 @@ public class quizTwoTwo {
     }
 
 
-    public static void printArray(int[]){
+    /*public static void printArray(int[]){
         //print all elements of each array
     }
 
@@ -25,7 +25,7 @@ public class quizTwoTwo {
     public static int findGreatest(int[] n1, int[] n2){
     //determine which array has the greatest value. Return the array number.
     //swap the greatest value to the last element in the array    
-    }
+    } */
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
